@@ -1,0 +1,112 @@
+{
+	"jamrooms": [
+				{
+					"name":"Jam Room One", 
+					"Owner":"Rocky",
+					"phone":"12345678",
+					"email":"rocky@jamroomone.com",
+					"Price":"10", 					
+					"imageUrl":"http://www.bluetimbre.com/wp-content/uploads/2016/05/jam-room2.jpg",
+					"address": {
+						"city": "San Jose",
+						"Zip": "95110"
+					},
+					"availableSlots": [
+									   {
+										   "from":1100, 
+										   "to":1230
+									   },
+									   {
+										   "from":1300,
+										   "to":1400
+									   },
+									   {
+										   "from":1500,
+										   "to":1630
+									   },
+								   	   {
+										   "from":1800,
+										   "to":2100
+									   }
+								      ]
+				},
+				{
+					"name":"Jam Room Two", 
+					"Price":"15", 
+					"Owner":"Sammy",
+					"phone":"9089098787",
+					"email":"sammy@jamroomtwo.com",
+					"imageUrl":"http://www.southpolestation.com/0506/music1.jpg",
+					"address": {
+						"city": "San Francisco",
+						"Zip": "94127"
+					},
+					"availableSlots": [
+									   {
+										   "from":1000, 
+										   "to":1230
+									   },
+									   {
+										   "from":1600,
+										   "to":1700
+									   },
+									   {
+										   "from":2000,
+										   "to":2100
+									   }
+								      ]
+				},
+				{
+					"name":"Jam Room Three", 
+					"Price":"12", 
+					"Owner":"Brit",
+					"phone":"6765676543",
+					"email":"brit@jamroomthree.com",
+					"imageUrl":"https://pbs.twimg.com/media/BCxss6QCQAImQ1x.jpg",
+					"address": {
+						"city": "Sunnyvale",
+						"Zip": "94089"
+					},
+					"availableSlots": [
+									   {
+										   "from":1000, 
+										   "to":1130
+									   },
+									   {
+										   "from":1500,
+										   "to":1700
+									   },
+									   {
+										   "from":1800,
+										   "to":2100
+									   }
+								      ]
+				},
+				{
+					"name":"Jam Room Four", 
+					"Price":"8", 
+					"Owner":"Scott",
+					"phone":"8765654346",
+					"email":"scott@jamroomtwo.com",
+					"imageUrl":"http://photos.wikimapia.org/p/00/03/56/49/33_big.jpg",
+					"address": {
+						"city": "Belmont",
+						"Zip": "94007"
+					},
+					"availableSlots": [
+									   {
+										   "from":800, 
+										   "to":1230
+									   },
+									   {
+										   "from":1400,
+										   "to":1600
+									   },
+									   {
+										   "from":1630,
+										   "to":2100
+									   }
+								      ]
+				}
+			  ]
+}
